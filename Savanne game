@@ -1,4 +1,4 @@
-#basics variables and stuff
+###basics variables and stuff
 import random
 hp = 100
 poeng = 0
