@@ -1,4 +1,5 @@
 ###basics variables and stuff
+# Lapisulv = makk
 import random
 hp = 100
 poeng = 0
